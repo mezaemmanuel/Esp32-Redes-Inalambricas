@@ -5,8 +5,8 @@ siendo asi solo un nodo para lectura de datos y trasmision a un master
 */
 //***MESH**//
 #include <painlessMesh.h>
-#define   MESH_PREFIX     "SM_Espanta"
-#define   MESH_PASSWORD   "SM_Espanta_2023"
+#define   MESH_PREFIX     "SSID"
+#define   MESH_PASSWORD   "PASSWORD"
 #define   MESH_PORT       5555
 painlessMesh  mesh;
 Scheduler userScheduler;
